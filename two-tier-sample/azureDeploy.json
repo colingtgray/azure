@@ -38,7 +38,7 @@
       "metadata": {
         "description": "This is the size of PAN's firewall VM"
       },
-      "defaultValue": "Standard_D3_v2"
+      "defaultValue": "Standard_D4_v3"
     },
     "fwSku": {
        "type": "string",
