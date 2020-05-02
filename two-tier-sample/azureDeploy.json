@@ -70,7 +70,7 @@
     "adminUserName": "paloalto",
     "adminPassword":"Pal0Alt0@123",
     "fwVmSize": "[parameters('FirewallVmSize')]",
-    "gvmSize": "Standard_A1_v2",
+    "gvmSize": "Standard_B1s",
     "fromGatewayLogin": "[parameters('FromGatewayLogin')]",
     "IPAddressPrefix": "10.5",
     "WebPublicIPName": "WebPublicIP",
